@@ -15,3 +15,4 @@
 * Training took A LOT of time(40 mins per epoch on floydhub)
 * The network classifies wolves and foxes as dogs and lynx and tigers as cats
 * Scottish terriers(the dog from Tintin) wrongly classified as cats(Sad)
+* Learnt saving and loading keras models-trained on the cloud and tested locally
